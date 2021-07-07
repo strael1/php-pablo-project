@@ -1,0 +1,12 @@
+{
+    "name": "vendor/project-php",
+    "description":"php/phpmvc",
+    "authors": [
+        {"name":"Rafael Macedo","email":"rafaelmacedosilva88@hotmail.com"}
+    ],
+    "autoload":{
+        "psr-4": {
+            "Source\\": "Application/"
+        }
+    }
+}
